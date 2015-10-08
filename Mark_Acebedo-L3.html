@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <link rel="stylesheet" type="text/css" href="style-L3.css" /> <!-- external css file called "style-L3.css" -->
+  <meta charset="utf-8">
+  <script type="text/javascript" src="change.js"></script> <!-- external javascript file called "change.js" -->
+  <title>Assignment 3</title>
+
+</head>
+
+<body>
+<h2>Assignment 3</h2>
+   <p>Create a basic webpage that includes the image “one.gif.” Use an interval timer to change image source to “two.gif” every 5 seconds. If the image is clicked, change the image source to “three.gif.” Provide a page element that when clicked, stops the timer. Be sure you know how to test that the timer has been stopped.   </p>
+<div style="text-align:center">
+  <p><img src="one.gif" id="imgNumber1" onClick="changenumber();" /></p> <!-- This calls the function changenumber which will change the number to "3" when clicked on -->
+    <button onclick="stopTimer()">Stop timer</button> <!-- This stops the 5 second time interval function "stopTimer" -->
+</div>
+</body>
+
+</html>
