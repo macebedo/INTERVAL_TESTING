@@ -1,10 +1,10 @@
-This is not a tutorials. There are my codes created for the request below:
+This is not a tutorial. There are my codes created for the request below:
 
-Create a basic webpage that includes the image “one.gif.”
+Create a basic webpage that includes the image â€œone.gif.â€
 
-Use an interval timer to change image source to “two.gif” every 5 seconds.
+Use an interval timer to change image source to â€œtwo.gifâ€ every 5 seconds.
 
-If the image is clicked, change the image source to “three.gif.”
+If the image is clicked, change the image source to â€œthree.gif.â€
 
 Provide a page element that when clicked, stops the timer.
 
